@@ -1,3 +1,20 @@
+# Project Description: NextJS Blog
+
+NextJS Blog is a blog about web technologies that we regularly use for our convenience in development. The app has 4 routes:
+
+1. A homepage with featured posts.
+2. A page with a list of all posts.
+3. A page with details of each post.
+4. A page with a feedback form.
+
+The markup for each post is written using Markdown. I used the "react-markdown" and "react-syntax-highlighter" packages to handle markdown and style it beautifully, for example, by highlighting code snippets.
+
+Users can leave their impressions in the form on the Contact page and will see whether their message has been sent or not thanks to a notification tied to a successful/unsuccessful connection to MongoDB.
+
+Enjoy your use!
+
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
