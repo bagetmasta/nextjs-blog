@@ -21,13 +21,13 @@ To set up this project on your local machine, follow the steps below.
 
 This option is useful if you want to simulate a production environment on your local machine.
 
-1. Install all project dependencies: npm install
-2. Create a production-ready build: npm run build
-3. Start the application: npm start
+1. Install all project dependencies: **npm install**
+2. Create a production-ready build: **npm run build**
+3. Start the application: **npm start**
 
 ## Option 2: Development Mode
 
 This option is useful if you are a developer wanting to make changes to the application and test them in real-time.
 
-1. Install all project dependencies: npm install
-2. Start the application in development mode: npm run dev
+1. Install all project dependencies: **npm install**
+2. Start the application in development mode: **npm run dev**
